@@ -8,6 +8,6 @@
 # RN
 
 - [x] A transação do tipo "crédito" somará ao valor total;
-- [ ] A transação do tipo "débito" subtrairá ao valor total;
-- [ ] Será possível identificar o usuário entre as requisições;
-- [ ] O usuário só visualizará transações que ele criou;
+- [x] A transação do tipo "débito" subtrairá ao valor total;
+- [x] Será possível identificar o usuário entre as requisições;
+- [x] O usuário só visualizará transações que ele criou;
